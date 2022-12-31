@@ -1,6 +1,7 @@
 # Coding-challenge
 Please refer to result.js for detailed analysis and thought process undergone on solving the question in multiple steps
-default result 
+
+#default result 
 
 3: 
 
